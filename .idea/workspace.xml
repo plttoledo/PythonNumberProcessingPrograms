@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Batch3/display_no_duplicates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/Program10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch3/Program1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     "Python.GetTenCountOddNumbers.executor": "Run",
     "Python.LoopPrintNumbersExceptWithZero.executor": "Run",
     "Python.PrintEvenNumbersToOneHundredLoop.executor": "Run",
+    "Python.Program1.executor": "Run",
     "Python.Program10.executor": "Run",
     "Python.Program3.executor": "Run",
     "Python.Program4.executor": "Run",
