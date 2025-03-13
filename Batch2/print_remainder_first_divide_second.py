@@ -5,4 +5,4 @@ user_input1 = int(input("Enter first number: "))
 user_input2 = int(input("Enter second number: "))
 
 get_modulo = user_input1 % user_input2
-print(f"The remainder of the first number ({user_input1}) divided by the second number({user_input2}) is {get_modulo}")
+print(f"The remainder of the first number({user_input1}) divided by the second number({user_input2}) is {get_modulo}")
