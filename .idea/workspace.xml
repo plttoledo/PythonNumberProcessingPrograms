@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch3/Program3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch3/Program3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch3/Program4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch3/Program4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.main.executor": "Run",
     "Python.print_all_numbers_one_entry.executor": "Run",
     "Python.print_remainder_first_divide_second.executor": "Run",
+    "Python.user_input_unique_or_duplicated.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/63935/PycharmProjects/PythonProjects/PythonNumberProcessingPrograms/Batch2",
