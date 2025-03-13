@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Batch2/get_first_minus_remaining.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/Program10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/Program7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/Program8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch2/Program9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/Program9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch2/Program8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch2/while_loop_odd_numbers_to_one_hundred.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
