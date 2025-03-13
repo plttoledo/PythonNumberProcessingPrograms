@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch3/Program5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch3/Program5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/FindBiggerNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/find_bigger_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/FindEqualNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/find_equal_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_number_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetProductOfNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_product_of_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetQuotientWithDecimalPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_quotient_with_decimal_point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetResultFirstNumberRaisedSecondNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_result_first_number_raised_second_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetSumTenNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_sum_ten_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/GetTenCountOddNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_ten_count_odd_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/LoopPrintNumbersExceptWithZero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/loop_print_numbers_except_with_zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Batch1/PrintEvenNumbersToOneHundredLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/print_even_numbers_to_one_hundred_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +74,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="FindEqualNumber" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="find_equal_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonNumberProcessingPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Batch1/FindEqualNumber.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\63935\PycharmProjects\PythonProjects\PythonNumberProcessingPrograms\Batch1\find_equal_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
