@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Batch1/FindBiggerNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/find_bigger_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/FindEqualNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/find_equal_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_number_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetProductOfNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_product_of_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetQuotientWithDecimalPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_quotient_with_decimal_point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetResultFirstNumberRaisedSecondNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_result_first_number_raised_second_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetSumTenNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_sum_ten_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/GetTenCountOddNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/get_ten_count_odd_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/LoopPrintNumbersExceptWithZero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/loop_print_numbers_except_with_zero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch1/PrintEvenNumbersToOneHundredLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Batch1/print_even_numbers_to_one_hundred_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_four/prog_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_four/display_number_duplicate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,10 +55,13 @@
     "Python.Program8.executor": "Run",
     "Python.Program9.executor": "Run",
     "Python.PythonNumberProcessingPrograms.executor": "Run",
+    "Python.find_equal_number.executor": "Run",
     "Python.get_first_minus_remaining.executor": "Run",
     "Python.main.executor": "Run",
     "Python.print_all_numbers_one_entry.executor": "Run",
     "Python.print_remainder_first_divide_second.executor": "Run",
+    "Python.prog_one.executor": "Run",
+    "Python.sort_lowest_to_highest.executor": "Run",
     "Python.user_input_unique_or_duplicated.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
