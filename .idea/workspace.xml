@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2202609-b2bb-42c4-ad1d-63b04bff43a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/batch_four/prog_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_four/display_number_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch_four/prog_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_four/prog_two.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.print_all_numbers_one_entry.executor": "Run",
     "Python.print_remainder_first_divide_second.executor": "Run",
     "Python.prog_one.executor": "Run",
+    "Python.prog_two.executor": "Run",
     "Python.sort_lowest_to_highest.executor": "Run",
     "Python.user_input_unique_or_duplicated.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
